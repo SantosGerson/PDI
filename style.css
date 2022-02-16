@@ -18,14 +18,14 @@
              }
     h2{
         text-align: center;
-                    text-decoration: underline;
+        text-decoration: underline;
                 
          } 
    
 
     i{
         color:red;
-        text-decoration: none;
+        
           
     }
 
@@ -35,11 +35,13 @@
                     
                 }
     ul{
-                    
+                   
         display: inline-block;
         font-family:fantasy;
         vertical-align: auto;
                 }
 
 
+
+    
 
