@@ -1,34 +1,44 @@
 
-body{
-   
+    body{
+    background-image: linear-gradient(to top ,darkgray,white);
 
-}
+    }
 
-h1{
-    text-align: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    h1{
+        text-align: center;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+
+    #ftlogo{
     
-}
+    height: 150px;
+    width: 100%;
 
-#ftcracha{
-height: 150px;
-width: 100%;
+    }
+    h2{
+        text-align: center;
+    }
+    .info{
+        
+    }
 
-}
+    i{
+        color:red
+    }
 
-i{
-    color:red
-}
+    #ftcurio{
+        height: 125px;
+        width : 124px;
+        
+    }
 
-#ftcurio{
-    height: 125px;
-    width : 124px;
-
-}
-
-ul{
-    font-family:fantasy;
-}
+    ul{
+        
+        display: inline-block;
+        font-family:fantasy;
+        vertical-align: auto;
+    }
 
 
 
